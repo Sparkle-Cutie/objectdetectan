@@ -1,0 +1,25 @@
+body{
+    background-size:cover;
+    background-position:center;
+    background-color: darkorchid;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+background-color:aqua;
+color: deeppink;
+}
+
+#status
+{
+font-size: 18px;
+color: darkviolet;
+}
+canvas{
+    box-shadow:10px 10px 10px grey;
+    border-radius:10px;
+    border: purple;
+}
+
